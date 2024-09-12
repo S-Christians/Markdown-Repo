@@ -98,7 +98,7 @@ $\color{Orange}{This\ text\ is\ Orange.}$\
 $\color{Yellow}{This\ text\ is\ Yellow.}$\
 $\color{Green}{This\ text\ is\ Green.}$\
 $\color{ProcessBlue}{This\ text\ is\ Blue.}$\
-$\color{Purple}{This\ text\ is\ purple.}$\
+$\color{Purple}{This\ text\ is\ purple.}$
 
 ---
 # Images:
