@@ -106,7 +106,7 @@ $\color{Purple}{This\ text\ is\ purple.}$
 Here's a puppy picture because why not. 
 <img src= "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" >
 
-And a puppy GIF:
+And a puppy GIF:\
 <img src= "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2014/March/140321/2D274905428113-puppybowl.gif">
 
 
