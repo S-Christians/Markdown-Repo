@@ -93,21 +93,20 @@ This is a table I made to show I can make tables:
 ---
 # Text Colors:
 
-$\color{Red}{This\ text\ is\ Red.}$
-$\color{Orange}{This\ text\ is\ Orange.}$
-$\color{Yellow}{This\ text\ is\ Yellow.}$
-$\color{Green}{This\ text\ is\ Green.}$
-$\color{ProcessBlue}{This\ text\ is\ Blue.}$
-$\color{Purple}{This\ text\ is\ purple.}$
+$\color{Red}{This\ text\ is\ Red.}$\
+$\color{Orange}{This\ text\ is\ Orange.}$\
+$\color{Yellow}{This\ text\ is\ Yellow.}$\
+$\color{Green}{This\ text\ is\ Green.}$\
+$\color{ProcessBlue}{This\ text\ is\ Blue.}$\
+$\color{Purple}{This\ text\ is\ purple.}$\
 
 ---
 # Images:
 
+Here's a puppy picture because why not. 
 <img src= "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" >
-Here's a puppy picture because why not.
 
 And a puppy GIF:
-
 <img src= "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2014/March/140321/2D274905428113-puppybowl.gif">
 
 
