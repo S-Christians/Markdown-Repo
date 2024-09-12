@@ -20,7 +20,7 @@ ___
 ---
 # Underlines and Strikethrough:
 
-<ins> This text is underlined.</ins>
+<ins> This text is underlined.</ins>\
 ~~This text is strikethrough~~
 
 ---
@@ -73,7 +73,6 @@ I can make\
 this text use\
 multiple lines\ 
 by using the backslash\
-or just by using return
 
 ---
 # Tables:
