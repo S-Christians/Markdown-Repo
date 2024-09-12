@@ -54,7 +54,6 @@ You can make task lists too:
 > You can make a block quote using Command+Shift+. on Mac or using the > key.
 >> This is still part of the same block quote, but has been nested using >>.
 >>> I can nest even further using >>>.
->Now I've returned to the original block quote.
 
 ---
 # Boxes:
