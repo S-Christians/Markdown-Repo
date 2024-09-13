@@ -1,9 +1,17 @@
-# Basic Information:
----
-# Fun Facts:
----
-# Images:
----
+# New Zealand
+## Basic Information:
+
+**Population**
+**Location:**
+**Capital**
+**Language:** 
+**Currency:**
+**Climate:**
+**Flag:**
+## Fun Facts:
+
+## Images:
+
 **Lake Wakatipu in Queenstown:**
 <img src= "https://www.zicasso.com/static/1613b7fe4e02309dcd902b3f19405262/52794/1613b7fe4e02309dcd902b3f19405262.webp" Width = "500">
 **Fiordland National Park**

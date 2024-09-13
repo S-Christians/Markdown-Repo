@@ -70,8 +70,7 @@ I can also add links, like this link to [Google](https://www.google.com/)
 
 I can make\
 this text use\
-multiple lines\ 
-using the backslash\
+multiple lines
 
 ---
 # Tables:
