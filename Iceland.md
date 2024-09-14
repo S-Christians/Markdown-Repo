@@ -2,11 +2,11 @@
 
 ## Basic Information:
 
-**Population:**
-**Capital**
-**Language:** 
-**Currency:**
-**Climate:**
+**Population:** 399,189 (171st in the world)\
+**Capital:** Reykjavík\
+**Language:** Icelandic\
+**Currency:** Icelandic Króna\
+**Climate:** Subpolar Oceanic (55ºF to 0ºF)\
 **Flag:**\
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/472px-Flag_of_Iceland.svg.png" Width = "100">
 ## Fun Facts:

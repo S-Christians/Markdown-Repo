@@ -22,11 +22,11 @@
 **El Yunque National Forest:**
 <img src= "https://assets.vogue.com/photos/61b8f18e3a9dec16c63b5c7c/master/w_1600,c_limit/GettyImages-635983856.jpg" Width = "500">
 
-### Wikipedia:
+## Wikipedia:
 [Puerto Rico Wiki](https://en.wikipedia.org/wiki/Puerto_Rico)
 
 
 Sources:
-https://rusticpathways.com/inside-rustic/online-magazine/fun-facts-about-puerto-rico
-https://www.vogue.com/article/an-insiders-guide-to-san-juan-puerto-rico
-https://www.discoverpuertorico.com/article/guayama-ruta-gastronomica-de-la-costa
+https://rusticpathways.com/inside-rustic/online-magazine/fun-facts-about-puerto-rico \
+https://www.vogue.com/article/an-insiders-guide-to-san-juan-puerto-rico \
+https://www.discoverpuertorico.com/article/guayama-ruta-gastronomica-de-la-costa \

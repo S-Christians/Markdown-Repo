@@ -1,14 +1,17 @@
 # New Zealand
 ## Basic Information:
 
-**Population**
-**Capital**
-**Language:** 
-**Currency:**
-**Climate:**
+**Population:** 5,402,610
+**Capital:** Wellington
+**Language:** English, Māori, NZ Sign Language
+**Currency:** New Zealand Dollar
+**Climate:** Subtropical to Subantarctic (50ºF - 61ºF)
 **Flag:**\
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png" Width = "100">
 ## Fun Facts:
+1. New Zealand is the first country to have universal suffrage
+2. They boast the town with the longest name in the world (Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu)
+3. There more sheep than people (10 sheep to 1 person)
 
 ## Images:
 
@@ -21,3 +24,6 @@
 
 ### Wikipedia:
 [New Zealand](https://en.wikipedia.org/wiki/New_Zealand)
+
+Sources:
+https://www.civitatis.com/blog/en/facts-about-new-zealand/?srsltid=AfmBOoqshigLmV9C_F9vbfnH-JhOhODxJfdJ0Y7ZHqyMIRUXsBxjJfdX
