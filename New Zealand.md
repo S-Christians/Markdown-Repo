@@ -2,12 +2,12 @@
 ## Basic Information:
 
 **Population**
-**Location:**
 **Capital**
 **Language:** 
 **Currency:**
 **Climate:**
-**Flag:**
+**Flag:**\
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png" Width = "100">
 ## Fun Facts:
 
 ## Images:

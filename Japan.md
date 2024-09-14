@@ -2,12 +2,12 @@
 ## Basic Information:
 
 **Population**
-**Location:**
 **Capital**
 **Language:** 
 **Currency:**
 **Climate:**
-**Flag:**
+**Flag:**\
+<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png" Width = "100">
 ## Fun Facts:
 
 ## Images:

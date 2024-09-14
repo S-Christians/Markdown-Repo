@@ -2,13 +2,13 @@
 
 ## Basic Information:
 
-**Population**
-**Location:**
+**Population:**
 **Capital**
 **Language:** 
 **Currency:**
 **Climate:**
-**Flag:**
+**Flag:**\
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/472px-Flag_of_Iceland.svg.png" Width = "100">
 ## Fun Facts:
 
 
