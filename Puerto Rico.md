@@ -1,6 +1,6 @@
 # Puerto Rico
 ## Basic Information:
-**Population:** 3,205,691\
+**Population:** 3,205,691 (136th in the world)\
 **Capital:** San Juan\
 **Official Language:** Spanish, English\
 **Currency:** United States Dollar\
