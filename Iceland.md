@@ -8,7 +8,7 @@
 **Currency:** Icelandic Króna\
 **Climate:** Subpolar Oceanic (55ºF to 0ºF)\
 **Flag:**\
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/472px-Flag_of_Iceland.svg.png" Width = "100"> \
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/472px-Flag_of_Iceland.svg.png" Width = "100"> 
 ## Travel Requirements (for U.S. Citizen):
 **Passport:** Required for travel and must be valid for at least three months past your travel date\
 **Tourist Visa:** Not required for trips under 90 days\
@@ -29,7 +29,7 @@
 ### Wikipedia:
 [Iceland Wiki](https://en.wikipedia.org/wiki/Iceland)
 
-Sources:
+Sources:\
 [Fun Facts](https://www.princess.com/en-int/blog/10-fun-facts-about-iceland)\
 [Reynisfjara Beach Image](https://adventurousmiriam.com/iceland-adventure-tours/)\
 [Kirkjufell Mountain Image](https://www.independent.co.uk/travel/europe/iceland/northern-lights-iceland-holidays-when-visit-b2332294.html)\

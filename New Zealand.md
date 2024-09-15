@@ -6,7 +6,7 @@
 **Currency:** New Zealand Dollar\
 **Climate:** Subtropical to Subantarctic (50ºF - 61ºF)\
 **Flag:**\
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png" Width = "100"> \
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png" Width = "100"> 
 ## Travel Requirements (for U.S. Citizen):
 **Passport:** Required for travel and must be valid for at least three months past your travel date\
 **Tourist Visa:** Visa or New Zealand Electronic Travel Authority (NZeTA) required\
@@ -26,7 +26,7 @@
 ### Wikipedia:
 [New Zealand](https://en.wikipedia.org/wiki/New_Zealand)
 
-Sources:
+Sources:\
 [Fun Facts](https://www.civitatis.com/blog/en/facts-about-new-zealand/?srsltid=AfmBOoqshigLmV9C_F9vbfnH-JhOhODxJfdJ0Y7ZHqyMIRUXsBxjJfdX)\
 [Lake Wakatipu Image](https://www.flickr.com/photos/josbuurmansphotography/25900035312)\
 [Fiordland National Park Image](https://www.jpost.com/special-content/experience-the-best-of-new-zealand-713860)\

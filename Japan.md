@@ -6,7 +6,7 @@
 **Currency:** Japanese Yen\
 **Climate:** Subantarctic to Subtropical (54ºF to 82°F)\
 **Flag:**\
-<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png" Width = "100"> \
+<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png" Width = "100"> 
 ## Travel Requirements (for U.S. Citizen):
 **Passport:** Required for travel and must be valid during period of stay\
 **Tourist Visa:** Not required\
@@ -25,7 +25,7 @@
 ### Wikipedia:
 [Japan Wiki](https://en.wikipedia.org/wiki/Japan)
 
-Sources:
+Sources:\
 [Fun Facts](https://www.airalo.com/blog/15-fun-facts-about-japan?srsltid=AfmBOoosIeRDjqZ9RLkhD4qRWVpWPeusH2egm1Pvl7HjBBOVCglq1l8i)\
 [Mt. Fuji Image](https://www.vogue.in/content/tokyo-japan-where-to-eat-where-to-stay-what-to-do)\
 [Itsukushima Shrine Image](https://travel.gaijinpot.com/the-23-unesco-world-heritage-sites-of-japan)\
