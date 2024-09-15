@@ -17,11 +17,11 @@
 3. There more sheep than people (10 sheep to 1 person)
 ## Images:
 **Lake Wakatipu in Queenstown:**
-<img align= "Left" src= "https://live.staticflickr.com/1475/25900035312_a1ce04f7c6_b.jpg" Width = "700">
+<img src= "https://live.staticflickr.com/1475/25900035312_a1ce04f7c6_b.jpg" Width = "700">
 **Fiordland National Park**
-<img align= "Left" src= "https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/2e56acb6ab63a2f928e7b0b1f9334809.jpg" Width = "700">
+<img src= "https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/2e56acb6ab63a2f928e7b0b1f9334809.jpg" Width = "700">
 **Cathedral Cove:**
-<img align= "Left" src= "https://www.travelandleisure.com/thmb/CcJ7OSaaC9E-ThtIqWbonu5KJ2U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cathedral-cove-new-zealand-NZBEACHES0419_0-941ef4624dc148f096a7cbb841957934.jpg" Width = "700">
+<img src= "https://www.travelandleisure.com/thmb/CcJ7OSaaC9E-ThtIqWbonu5KJ2U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cathedral-cove-new-zealand-NZBEACHES0419_0-941ef4624dc148f096a7cbb841957934.jpg" Width = "700">
 
 ### Wikipedia:
 [New Zealand](https://en.wikipedia.org/wiki/New_Zealand)
