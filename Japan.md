@@ -17,11 +17,11 @@
 3. Japan has the highest density of vending machines per capita
 ## Images:
 **Mt. Fuji and the Chureito Pagoda:**
-<img align= "Left" src= "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg" Width= "700">
+<img src= "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg" Width= "700">
 **Itsukushima Shrine:**
-<img align= "Left" src="https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/01/Miyajima-Floating-shrine.jpg" Width= "700">
+<img src="https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/01/Miyajima-Floating-shrine.jpg" Width= "700">
 **Cherry Blossoms in Tokyo:**
-<img align= "Left" src="https://i.pinimg.com/736x/5a/e2/11/5ae21131837fac13d8b379df960535be.jpg" Width = "700">
+<img src="https://i.pinimg.com/736x/5a/e2/11/5ae21131837fac13d8b379df960535be.jpg" Width = "700">
 ### Wikipedia:
 [Japan Wiki](https://en.wikipedia.org/wiki/Japan)
 
