@@ -19,13 +19,13 @@
 3. Iceland experiences 23 hours of darkness during the month of December and up to 24 hours of daylight in June
 ## Images:
 **Reynisfjara Black Sand Beach:** 
-<img src= " https://farm3.staticflickr.com/2875/34009837311_5b5b37616e_c.jpg" width= "700"> \
+<img align= "Left" src= " https://farm3.staticflickr.com/2875/34009837311_5b5b37616e_c.jpg" width= "700"> \
 **The Northern Lights seen over Kirkjufell Mountain:** 
-<img src= "https://static.independent.co.uk/2023/05/04/10/iStock-1058181722.jpg" Width = "700"> \
+<img align= "Left" src= "https://static.independent.co.uk/2023/05/04/10/iStock-1058181722.jpg" Width = "700"> \
 **Svartifoss Waterfall:**
-<img src= "https://www.campervaniceland.com/assets/img/blog/294.png" Width= "700">\
+<img align= "Left" src= "https://www.campervaniceland.com/assets/img/blog/294.png" Width= "700">\
 **Godafoss Waterfall:**
-<img src="https://cdn.sanity.io/images/np2gumla/production/6b411add707ab71b78b95b0915ede97d9c9c5f68-4743x3162.jpg?w=3840&h=2240&fit=crop&rect=171,252,4256,2341&fp-x=0.4845890410958904&fp-y=0.4498642478094533&auto=format" Width= "700">\
+<img align= "Left"src="https://cdn.sanity.io/images/np2gumla/production/6b411add707ab71b78b95b0915ede97d9c9c5f68-4743x3162.jpg?w=3840&h=2240&fit=crop&rect=171,252,4256,2341&fp-x=0.4845890410958904&fp-y=0.4498642478094533&auto=format" Width= "700">\
 ### Wikipedia:
 [Iceland Wiki](https://en.wikipedia.org/wiki/Iceland)
 
