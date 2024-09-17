@@ -16,7 +16,7 @@
 2. Shibuya crossing in Tokyo is the busiest pedestrian crossing in the world
 3. Japan has the highest density of vending machines per capita
 ## Images:
-<img src= "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg" Width= "700">
+<img src= "https://www.theinvisibletourist.com/wp-content/uploads/2017/04/featured_85.jpg" Width = "700">
 <img src="https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/01/Miyajima-Floating-shrine.jpg" Width= "700">
 <img src="https://i.pinimg.com/736x/5a/e2/11/5ae21131837fac13d8b379df960535be.jpg" Width = "700">
 
@@ -25,7 +25,7 @@
 
 Sources:\
 [Fun Facts](https://www.airalo.com/blog/15-fun-facts-about-japan?srsltid=AfmBOoosIeRDjqZ9RLkhD4qRWVpWPeusH2egm1Pvl7HjBBOVCglq1l8i)\
-[Mt. Fuji Image](https://www.state.gov/countries-areas/japan/)\
+[Mt. Fuji Image](https://www.theinvisibletourist.com/2-weeks-in-japan-itinerary-first-time/)\
 [Itsukushima Shrine Image](https://travel.gaijinpot.com/the-23-unesco-world-heritage-sites-of-japan)\
 [Cherry Blossom Image](https://www.pinterest.com/pin/42925002677872630) \
 [Japan Travel Requirements](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
