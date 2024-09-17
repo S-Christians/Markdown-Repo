@@ -25,7 +25,7 @@
 
 Sources:\
 [Fun Facts](https://www.airalo.com/blog/15-fun-facts-about-japan?srsltid=AfmBOoosIeRDjqZ9RLkhD4qRWVpWPeusH2egm1Pvl7HjBBOVCglq1l8i)\
-[Mt. Fuji Image](https://www.vogue.in/content/tokyo-japan-where-to-eat-where-to-stay-what-to-do)\
+[Mt. Fuji Image](https://www.state.gov/countries-areas/japan/)\
 [Itsukushima Shrine Image](https://travel.gaijinpot.com/the-23-unesco-world-heritage-sites-of-japan)\
 [Cherry Blossom Image](https://www.pinterest.com/pin/42925002677872630) \
 [Japan Travel Requirements](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
