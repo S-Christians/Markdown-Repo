@@ -18,10 +18,10 @@
 2.  Icelandic police do not carry firearms while on duty (with the exception of a special force called the Viking Squad)
 3. Iceland experiences 23 hours of darkness during the month of December and up to 24 hours of daylight in June
 ## Images:
-**Reynisfjara Black Sand Beach:** 
-<img src= " https://farm3.staticflickr.com/2875/34009837311_5b5b37616e_c.jpg" width= "700"> \
-**The Northern Lights seen over Kirkjufell Mountain:** 
-<img src= "https://static.independent.co.uk/2023/05/04/10/iStock-1058181722.jpg" Width = "700"> \
+
+<img alt = "Reynisfjara Black Sand Beach:" src= " https://farm3.staticflickr.com/2875/34009837311_5b5b37616e_c.jpg" width= "700"> 
+
+<img alt = "The Northern Lights seen over Kirkjufell Mountain" src= "https://static.independent.co.uk/2023/05/04/10/iStock-1058181722.jpg" Width = "700"> \
 **Svartifoss Waterfall:**
 <img src= "https://www.campervaniceland.com/assets/img/blog/294.png" Width= "700">\
 **Godafoss Waterfall:**
