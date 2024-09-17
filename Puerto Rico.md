@@ -20,7 +20,7 @@
 <img src= "https://www.discoverpuertorico.com/sites/default/files/styles/horizontal/public/2020-02/191-3-13002_jpeg.jpg?h=8a6d63f3&itok=ZrUOc4RB" Width = "700">
 <img src= "https://assets.vogue.com/photos/61b8f18e3a9dec16c63b5c7c/master/w_1600,c_limit/GettyImages-635983856.jpg" Width = "700">
 
-## Wikipedia:
+### Wikipedia:
 [Puerto Rico Wiki](https://en.wikipedia.org/wiki/Puerto_Rico)
 
 Sources:\
